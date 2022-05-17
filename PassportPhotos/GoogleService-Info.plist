@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431931871221-glt5ljdrfak6ve0mer022e2757t4rhe5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431931871221-glt5ljdrfak6ve0mer022e2757t4rhe5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBv-uPTaydcc_fBll-Am_O1C272BvTWXH4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431931871221</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>roman-verko</string>
+	<key>PROJECT_ID</key>
+	<string>facedetect-f0641</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facedetect-f0641.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431931871221:ios:87b28bf355a4ec17c79abc</string>
+</dict>
+</plist>
